@@ -51,12 +51,17 @@ Làm theo các bước để setup cơ sở dữ liệu: ![alt text](Images/imag
 Kết nối cơ sở dữ liệu với Mysql Workbench: ![alt text](Images/image2.png)
 
 Tạo bảng datasensor với các thuộc tính: id, temperature, humidity, light, createdAt
+
 Tạo bảng actionhistory với các thuộc tính: id, device, action, createdAt
+
+![alt text](Images/image3.png)
 
 ### Bước 5: Cài đặt Postman
 Link tải Postman: [Cài đặt Postman trên Windows](https://www.postman.com/downloads/)
 
 Sau khi khởi chạy Postman, thêm request mới và dùng các URL trong folder `routes/` để test
+
+![alt text](Images/image4.png)
 
 ## 3. Tài liệu và tham khảo
 
