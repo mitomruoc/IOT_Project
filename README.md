@@ -63,6 +63,8 @@ Sau khi khởi chạy Postman, thêm request mới và dùng các URL trong fold
 
 ![alt text](Images/image4.png)
 
+Dao diện Postman sau khi thêm các request và gán API URL: ![alt text](Images/image5.png)
+
 ## 3. Tài liệu và tham khảo
 
 ### Tài liệu tham khảo
